@@ -1,0 +1,21 @@
+.body {
+  display: flex;
+  flex-direction: column;
+}
+
+.missions {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgba(0, 0, 0, 0.364);
+}
+
+.missions-cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0% 20%;
+  text-align: center;
+  text-justify: center;
+}
