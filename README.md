@@ -9,6 +9,55 @@ Neste projeto foi desenvolvido um modelo do sistema solar! Nele você é capaz d
 
 * Visualizar todas as cartas com informações sobre missões espaciais;
 
+<br>
+
+<details>
+  <summary><strong>Como instalar o Projeto Solar System</strong></summary><br />
+
+## Instalação 
+
+<br>
+
+- Clone o repositório `git@github.com:Rafael-Souza-97/solar-system.git`:
+
+```bash
+git clone git@github.com:Rafael-Souza-97/solar-system.git
+```
+
+<br>
+
+- Entre na pasta do repositório que você acabou de clonar:
+
+```bash
+cd solar-system
+```
+
+<br>
+
+ - Instale as depëndencias, caso necessário, com `npm install`:
+
+```bash
+npm install
+```
+
+<hr>
+
+### Scripts
+
+ - Execute a aplicação com  com `npm start`:
+  > Executará a aplicação em modo de desenvolvimento.
+ 
+```bash
+npm start
+```
+
+Abra [http://localhost:3000](http://localhost:3000) no seu navegador para visualiza-lo.
+
+<hr>
+<br>
+
+</details>
+
 ## Autor
 
 - [Rafael Souza](https://github.com/Rafael-Souza-97)
